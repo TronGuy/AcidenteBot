@@ -8,8 +8,10 @@ Os códigos presentes nesta aplicações são de licença **MIT**. Fica livre a 
 
 
 ## Imagens
-   
-   
+   ![AcidenteBot_1](https://github.com/LouizF/AcidenteBot/blob/master/AcidenteBot/1.png)
+   ![AcidenteBot_2](https://github.com/LouizF/AcidenteBot/blob/master/AcidenteBot/2.png)
+   ![AcidenteBot_3](https://github.com/LouizF/AcidenteBot/blob/master/AcidenteBot/3.png)
+   ![AcidenteBot_4](https://github.com/LouizF/AcidenteBot/blob/master/AcidenteBot/4.png)
 
 ## Uso
 
