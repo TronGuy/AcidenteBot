@@ -1,0 +1,5 @@
+ Este é um projeto que eu fiz para a disciplina de INTELIGÊNCIA ARTIFICIAL do meu curso de CIÊNCIA DA COMPUTAÇÃO.
+ O projeto possui licença MIT. Qualquer pessoa pode utilizá-lo, contanto que respeite as diretrizes da licença MIT.
+ Para informações leia o arquivo Readme.md .
+
+ GitHub: https://github.com/LouizF
