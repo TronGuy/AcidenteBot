@@ -1,6 +1,6 @@
 # AcidenteBot
 
-**AcidenteBot** é um *ChatBot* simples possuindo front-end e back-end. O projeto foi feito para o aprendizado de programação de BOTS e foi utilizado para a obtenção de **NOTA** na disciplina de _**INTELIGÊNCIA ARTIFICIAL**_. O projeto foi feito com o nome de uma _**EMPRESA FICTÍCIA**_ em que apelidamos de **WaySolution**. A aplicação possui **FRONT-END** com design responsivo e **BACK-END** com integração ao **MySql**. 
+**AcidenteBot** é um *ChatBot* simples, construído com front-end e back-end. O objetivo deste projeto foi para o aprendizado de programação de BOTS e foi utilizado para a obtenção de **NOTA** da disciplina de _**INTELIGÊNCIA ARTIFICIAL**_. O projeto foi feito com o nome de uma _**EMPRESA FICTÍCIA**_ em que foi apelidado de **WaySolution**. A aplicação possui **FRONT-END** com design responsivo e **BACK-END** com integração ao **MySql**. 
 
 ## Licença
 
