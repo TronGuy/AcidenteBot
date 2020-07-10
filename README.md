@@ -65,8 +65,8 @@ O código tem seu funcionamento baseado em JSON,que posteriormente é passado ao
                 text:"42",
              },
              {
-                value:"Macratéia!",
-                text:"Macratéia",
+                value:"Magrathea!",
+                text:"Magrathea!",
                 
              }]
 
