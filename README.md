@@ -26,8 +26,9 @@ O código tem seu funcionamento baseado em JSON,que posteriormente é passado ao
 
         * "chat-msg": "mensagem que irá ser enviada pelo Bot",
 
-        * name : pode ser atribuido a um nome personalizado em que pode ser chamado   depois,porém não é necessário para o funcionamento do software,
-        podendo ser retirado da estrutura
+        * name : pode ser atribuido a um nome personalizado em que pode ser chamado depois,
+         porém não é necessário para o funcionamento do software,
+         podendo ser retirado da estrutura
         
         * type: pode ser input ou radio. Input será uma entrada de texto enquanto radio será uma opção a ser apresentada
 
